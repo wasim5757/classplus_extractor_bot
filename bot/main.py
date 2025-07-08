@@ -4,9 +4,9 @@ from pyrogram.types import Message
 
 bot = Client(
     'classplus_bot',
-    api_id=int(os.getenv('API_ID')),
-    api_hash=os.getenv('API_HASH'),
-    bot_token=os.getenv('BOT_TOKEN')
+    api_id=int(os.getenv('21567814')),
+    api_hash=os.getenv('cd7dc5431d449fd795683c550d7bfb7e'),
+    bot_token=os.getenv('8078418472:AAHN802dzlaLZX2D9g3URDTlic6W7IX0Fb4')
 )
 
 @bot.on_message(filters.command('start'))
