@@ -1,0 +1,7 @@
+pyrogram
+tgcrypto
+aiohttp
+requests
+cloudscraper
+m3u8
+yt-dlp
