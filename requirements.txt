@@ -1,7 +1,7 @@
-pyrogram
+pyrogram==2.0.106
 tgcrypto
 aiohttp
 requests
 cloudscraper
-m3u8
-yt-dlp
+m3u8==0.9.0
+yt-dlp==2024.05.27
